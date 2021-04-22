@@ -1,0 +1,68 @@
+h1 {
+    color:pink;
+    font-size: 30px;
+  }
+  p {
+    color: black;
+    font-size: 20px;
+  }
+  h2{
+    color: purple;
+  }
+  .metin{
+    
+    color: orange;
+
+  }
+ ul .liste .li{ 
+   list-style-position: inside
+
+ }
+
+ img{
+   width: 200px;
+   height: 200px;
+ }
+ li{
+  list-style-position: inside
+ }
+ .metin1{
+    
+  color: orange;
+  text-align: left;
+
+}
+ul {
+  list-style-type: none;
+
+  margin: 0;
+
+  padding: 0;
+
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+
+  padding:12px 16px;
+
+
+  color:white;
+
+  text-decoration:none; 
+}
+li a:hover{
+  background-color:#23834c; 
+}
+.menu_ust{
+  background-color:darkslategrey;
+}
+
+body 
+{ 
+  background-color: #E9ECEF;
+}
